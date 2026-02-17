@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CaptainSriHari
-- 👀 I’m interested in in Mobile App Development, Flutter UI/UX, and Backend API Integration
+- 👀 I’m interested in Mobile App Development, Flutter UI/UX, and Backend API Integration
 - 🌱 💼 I have experience in Flutter Development, Clean Architecture, and State Management (GetX, Provider)
 - 💞️ I’m looking to collaborate on Flutter Mobile Apps, Firebase Projects, and Real-time Applications
 - 📫 How to reach me 📧
