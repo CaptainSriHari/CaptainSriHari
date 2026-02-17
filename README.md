@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Advanced Flutter Architecture, Clean Architecture, and State Management (GetX, Provider)
 - 💞️ I’m looking to collaborate on Flutter Mobile Apps, Firebase Projects, and Real-time Applications
 - 📫 How to reach me 📧
-- Email: your-email@gmail.com  
+- Email: sreeharikadiyam@gmail.com 
    🔗 LinkedIn: https://www.linkedin.com/in/srihari-kadiyam-b46a98397/  
    💻 GitHub: https://github.com/CaptainSriHari
 - 😄 Pronouns: He/Him
