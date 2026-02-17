@@ -6,6 +6,7 @@
 - Email: sreeharikadiyam@gmail.com 
    🔗 LinkedIn: https://www.linkedin.com/in/srihari-kadiyam-b46a98397/  
    💻 GitHub: https://github.com/CaptainSriHari
+-  🌐 portfolio: https://captainsrihari.github.io/SriHari-Portfolio/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:  I love building beautiful UI designs and turning ideas into real mobile apps 🚀
 
